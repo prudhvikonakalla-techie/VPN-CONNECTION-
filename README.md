@@ -34,12 +34,12 @@ A report describing VPN setup steps and connection status with screenshots.
 - Open [WhatIsMyIPAddress.com](https://www.whatismyipaddress.com/) before connecting to the VPN—note your public IP address.
 - Take a screenshot for documentation.
 
-  ![Original Public IP Screenshot](1000054429.jpeg)
+  ![Original Public IP Screenshot](image.png)
 
 - Connect to the VPN and refresh the site—your IP should now reflect the VPN server’s location.
 - Take another screenshot for your report.
 
-  ![VPN Public IP Screenshot](1000054430.jpeg)
+  ![VPN Public IP Screenshot](image-1.png)
 
 ### 5. Browse a Website to Confirm Traffic is Encrypted
 - Open a new tab and browse to a secure site (HTTPS).
@@ -60,13 +60,7 @@ A report describing VPN setup steps and connection status with screenshots.
 
 ### 8. Write a Summary on VPN Benefits and Limitations
 - List advantages: improved privacy/anonymity, encrypted traffic, access to region-locked content.
-- Note drawbacks: possible reduced speed, trust in VPN provider, access restrictions by some sites, usability issues.
-
----
-
-## Example Task Instructions
-
-![Task Instructions](1000054437.jpg)
+- Note drawbacks: possible reduced speed, trust in VPN provider, access restrictions by some sites, usability issues...
 
 ---
 
